@@ -7,6 +7,7 @@
     <a href="https://github.com/random-life/Cool-NLP/tree/main/NLP-Corpus">
         <img src="https://img.shields.io/badge/theme-NLP-blue" alt="NLP Corpus" />
 </p>
+
 # 按类型划分
 
 :cupid:***问答QA对数据*** :cupid:
