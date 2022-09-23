@@ -1,21 +1,11 @@
 
-<p align="center"><img src="http://md.hao2.top/img/logo.png"
-        alt="Logo" width="158" height="82" style="max-width: 100%;"></p>
-<h1 align="center">Tmier</h1>
-<p align="center">这里是简介~</p>
+<p align="center"><img src="https://github.com/random-life/Cool-NLP/blob/main/image/v2-0ccdd12913bc9d461c398dd446e81576_b.jpg"
+        alt="Luffy" width="250" height="250" style="max-width: 100%;"></p>
+<h1 align="center">random-life</h1>
+<p align="center">这里是NLP数据收集~</p>
 <p align="center">
-    <a href="https://github.com/1042970366/">
-        <img src="https://img.shields.io/badge/license-MIT-green" alt="MIT License" />
-    </a>
-    <a href="https://vuejs.org/">
-        <img src="https://img.shields.io/badge/vue.js-2.0-green" alt="Vue2.0">
-    </a>
-    <a href="https://github.com/1042970366/">
-        <img src="https://img.shields.io/badge/author-Tmier-blueviolet" alt="Author">
-    </a>
-    <a href="https://github.com/1042970366/">
-        <img src="https://img.shields.io/badge/?-open--in--browser-blueviolet" alt="Live Demo">
-    </a>
+    <a href="https://github.com/random-life/Cool-NLP/tree/main/NLP-Corpus">
+        <img src="https://img.shields.io/badge/theme-NLP-blue" alt="NLP Corpus" />
 </p>
 # 按类型划分
 
