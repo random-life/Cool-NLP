@@ -1,6 +1,6 @@
 # NLP数据收集
 
-
+![image](https://github.com/random-life/Cool-NLP/blob/main/image/v2-0ccdd12913bc9d461c398dd446e81576_b.jpg)
 
 
 ## 按类型划分
