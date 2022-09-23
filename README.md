@@ -30,4 +30,4 @@
 |:cupid:***杂类数据***:cupid:|诗歌，古文等各种好玩的数据|
 
 :heartbeat::heartbeat::heartbeat:NLP数据收集详细信息可点这里:heartbeat::heartbeat::heartbeat:
-[***NLP Corpus收集向***](https://github.com/random-life/Cool-NLP)
+[***NLP Corpus收集向***](https://github.com/random-life/Cool-NLP/tree/main/NLP-Corpus)
