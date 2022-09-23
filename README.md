@@ -1,7 +1,7 @@
 # Cool-NLP
 [NLP收集向](https://github.com/random-life/Cool-NLP)
 <p align="center"><img src="https://github.com/random-life/Cool-NLP/blob/main/image/N.png"
-        alt="Logo" width="500" height="500" style="max-width: 100%;"></p>
+        alt="Logo" width="250" height="250" style="max-width: 100%;"></p>
 <h1 align="center">NLP收集向</h1>
 <p align="center">NLP数据啦，论文啦，啦啦啦啦~</p>
 <p align="center">
