@@ -1,40 +1,75 @@
-# Cool-NLP
-NLP收集向
 # NLP数据收集
+
+ :doge:
+
 ## 按类型划分
 
-* 问答QA对数据
-    * 百科问答->nlp_chinese_corpus
-    * 社区问答->nlp_chinese_corpus
-	* 法务问答->CrimeKgAssitant
-* 纯文本数据
-    * 维基百科词条->nlp_chinese_corpus
-    * 新闻语料->nlp_chinese_corpus
-    * 翻译语料->nlp_chinese_corpus
-* 中文词库
-    * 68个领域词库->DomainWordsDict
-    * 中文缩写->Chinese-abbreviation-dataset
-    * 关系词库->ChineseSemanticKB
-    * 同义词反义词库->chinese_dictionary
-    * 法务罪行相关词表->CrimeKgAssitant
-    * 英文脏话词表->profane-words
-* 闲聊对话
-    * 微博电视剧等->chinese_chatbot_corpus
-    * 微信闲聊->weixin_public_corpus
-* 杂类数据
-    * 诗词->chinese-poetry
-    * 对联->couplet-dataset
-    * 古文->Classical-Modern
-    * 歇后语->chinese-xinhua
-    * 成语（成语+解释）->chinese-xinhua
-    * 汉字（字+解释）->chinese-xinhua
-    * 词语（词语+解释）->chinese-xinhua
-    * 色彩词及对应色彩值->dictionary-of-colour-combinations
-    * 汉语拆字->chaizi
+* 问答QA对数据 :chicken: :chicken: :chicken:
+
+|数据|描述|
+|:---  | :---|
+|百科问答|150w百科问答对，492个类别|
+|社区问答|410万个问答对，带有topic|
+|法务问答|20W法务问答对，13类问题|
+
+* 纯文本数据 :chicken: :chicken: :chicken:
+
+|数据|描述|
+|:--- |:--- |
+|维基百科词条|1.6G左右，104万个词条|
+|新闻语料|9G左右，250万篇新闻|
+|翻译语料|1.1G, 520万个中英文平行语料|
+|微信公众号语料|3G,微信公众号|
+
+* 中文词库 :chicken: :chicken: :chicken:
+
+|数据|描述|
+|:---| :---|
+|68个领域词库|916万词，68个领域|
+|中文缩写|10786个词条，中文缩写|
+|关系词库|34万抽象语义库、34万反义语义库、43万同义语义库等|
+|同义词反义词库|17817个同义词组，18797个反义词组，1515个否定词性的词|
+|法务罪行相关词表|856个罪名以及对应的分类和解释|
+|英文脏话词表|2916个含有冒犯意义的英文单词|
+|行政区域数据|三级行政数据：3638个 四级行政数据：43539个|
+
+* 闲聊对话 :chicken: :chicken: :chicken:
+
+|数据|描述|
+|:---| :---|
+|微博电视剧等|1.1G，8个公开闲聊常用语料和短信，白鹭时代问答等语料|
+
+* 杂类数据 :chicken: :chicken: :chicken:
+
+|数据|描述|
+|:---| :---|
+|诗词|最全的中华古典文集数据库|
+|对联|共包含70w对联数据|
+|古文|非常全的文言文（古文）- 现代文平行语料(翻译)|
+|歇后语|新华词典开源的常见歇后语|
+|成语|新华词典开源的常见成语和对应释义|
+|汉字|新华词典开源的汉字和对应释义|
+|词语|新华词典开源的词语和对应释义|
+|配色词典|348个色彩词和对应的159种颜色（英文）|
+|汉语拆字|提供字旁和部件查询的拆字字典数据库|
 
 ## 按领域划分
+
 * 命名实体识别数据
 * 词性标注数据
 * 情感分析数据
 * 短文本分类数据
 * 阅读理解数据
+
+## 按业务划分
+
+* 信息查询业务数据
+    * 分类训练集
+    * 领域词表
+
+
+
+
+
+
+
