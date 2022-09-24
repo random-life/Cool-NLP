@@ -37,6 +37,7 @@
 - [brightmart / nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
 - [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
 - [GanjinZero/awesome_Chinese_medical_NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+- [OYE93/Chinese-NLP-Corpus](https://github.com/OYE93/Chinese-NLP-Corpus)
 
 ## **资源收集：**
 
