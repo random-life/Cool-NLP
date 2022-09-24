@@ -33,10 +33,10 @@
 [***NLP Corpus收集向***](https://github.com/random-life/Cool-NLP/tree/main/NLP-Corpus)
 
 ## ***NLP收集向git项目***
-[fighting41love / funNLP](https://github.com/fighting41love/funNLP)
-[brightmart / nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
-[crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
-[GanjinZero/awesome_Chinese_medical_NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+- [fighting41love / funNLP](https://github.com/fighting41love/funNLP)
+- [brightmart / nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
+- [crownpku/Awesome-Chinese-NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
+- [GanjinZero/awesome_Chinese_medical_NLP](https://github.com/crownpku/Awesome-Chinese-NLP)
 
 ## **资源收集：**
 
